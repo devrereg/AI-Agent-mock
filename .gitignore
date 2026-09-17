@@ -1,0 +1,21 @@
+.env
+.env.prod
+
+deploy.sh
+.venv
+mock
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+.idea/*
+secrets/*
+tests/*
+
+
+__pycache__
+*.pyc
